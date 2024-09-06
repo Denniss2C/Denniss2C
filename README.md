@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Denniss2C
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  dscaisa@espe.edu.ec
+- 👀 I’m interested in web and mobile programming.
+- 🌱 I’m currently learning Flutter.
+- 💞️ I'm looking to collaborate on mobile applications.
+- 📫 How to reach me denniscaisa@gmail.com
 
 <!---
 Denniss2C/Denniss2C is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
